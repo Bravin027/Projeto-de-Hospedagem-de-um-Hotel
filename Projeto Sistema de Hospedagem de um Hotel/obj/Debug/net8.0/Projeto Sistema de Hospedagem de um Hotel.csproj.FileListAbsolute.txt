@@ -1,0 +1,14 @@
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.AssemblyInfoInputs.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.AssemblyInfo.cs
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.csproj.CoreCompileInputs.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\bin\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.exe
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\bin\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.deps.json
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\bin\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.runtimeconfig.json
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\bin\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\bin\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.pdb
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\refint\Projeto Sistema de Hospedagem de um Hotel.dll
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.pdb
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\Projeto Sistema de Hospedagem de um Hotel.genruntimeconfig.cache
+C:\Users\gb020\OneDrive\Área de Trabalho\.Net\Projeto Sistema de Hospedagem de um Hotel\obj\Debug\net8.0\ref\Projeto Sistema de Hospedagem de um Hotel.dll
